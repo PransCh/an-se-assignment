@@ -1,1 +1,1 @@
-to test working to git
+this is for testing git for an SE
